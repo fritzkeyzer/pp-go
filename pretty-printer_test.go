@@ -1,4 +1,4 @@
-package pp
+package pp_go
 
 import (
 	"testing"
