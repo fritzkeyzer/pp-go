@@ -1,4 +1,4 @@
-module github.com/fritzkeyzer/pp-go/pp
+module github.com/fritzkeyzer/pp-go
 
 go 1.16
 
